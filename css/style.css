@@ -1,0 +1,29 @@
+.jumbotron {
+  background-color: antiquewhite;
+}
+
+img {
+  border-radius: 50px;
+}
+
+.btn-align {
+  display: flex;
+  justify-content: center;
+}
+.custom-card-size {
+  width: 100%;
+  height: 100%;
+}
+.custom-card-text {
+  font-size: 1.5em;
+}
+/*
+.custom-spaces {
+  margin-bottom: 2em;
+
+}
+*/
+.custom-weather {
+  width: 100%;
+  height: 100%;
+}
